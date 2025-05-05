@@ -12,3 +12,7 @@ Given:
 - A maximum weight capacity `m`
 
 Find the subset of items that maximizes the total value while ensuring the total weight does not exceed `m`.
+
+## References:
+
+- [4.5 0/1 Knapsack - Two Methods - Dynamic Programming](https://youtu.be/nLmhmB6NzcM)
